@@ -1,4 +1,4 @@
-# 📊 Power BI Sales Dashboard
+# 📊 Power BI Data Jobs Dashboard
 
 This project showcases a simple but insightful Power BI dashboard analyzing different positions of data. The dashboard was built to identify trends, highlight top-performing data jobs, and provide a clear visual summary of key business metrics.
 
