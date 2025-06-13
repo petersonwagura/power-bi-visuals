@@ -41,7 +41,7 @@ Below is a screenshot of the main dashboard view:
 
 ## 📌 Notes
 
-- This is a sample dashboard created using dummy data.
+- This is a sample dashboard created using real
 - The design emphasizes clarity, interactivity, and business relevance.
 
 ---
